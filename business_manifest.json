@@ -1,0 +1,37 @@
+{
+  "name": "MindfulMonetize",
+  "type": "content",
+  "description": "A personalized content marketplace that leverages AI to curate and deliver niche expertise articles directly to mental health professionals and wellness enthusiasts, enhancing their understanding of consumer behavior for e-commerce success.",
+  "generated_at": "2025-12-06T23:47:58.590398",
+  "components": [
+    "spec",
+    "build",
+    "deploy",
+    "spec_requirements",
+    "spec_architecture",
+    "build_code",
+    "build_test"
+  ],
+  "files_written": [
+    "businesses\\production_test\\content\\mindfulmonetize\\src\\components\\component.tsx",
+    "businesses\\production_test\\content\\mindfulmonetize\\__tests__\\component.test.tsx",
+    "businesses\\production_test\\content\\mindfulmonetize\\vercel.json",
+    "businesses\\production_test\\content\\mindfulmonetize\\src\\components\\requirements.tsx",
+    "businesses\\production_test\\content\\mindfulmonetize\\__tests__\\architecture.test.tsx",
+    "businesses\\production_test\\content\\mindfulmonetize\\vercel.json",
+    "businesses\\production_test\\content\\mindfulmonetize\\src\\components\\test.tsx",
+    "businesses\\production_test\\content\\mindfulmonetize\\src\\app\\layout.tsx",
+    "businesses\\production_test\\content\\mindfulmonetize\\src\\app\\globals.css",
+    "businesses\\production_test\\content\\mindfulmonetize\\src\\app\\page.tsx"
+  ],
+  "tasks_completed": 7,
+  "tasks_failed": 0,
+  "ap2_estimated_cost": 45.2,
+  "ap2_estimated_tokens": 19500,
+  "ap2_generation_approval": null,
+  "infrastructure_approvals": {
+    "analytics": null,
+    "database": null,
+    "storage": null
+  }
+}
